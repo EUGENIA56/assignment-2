@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#bgimg{
+    background-image: url(../Images/lens.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 65%;
+    height: 100vh;
+    background-position-y: 42%;
+    /* background-position-x: 80%; */
+}
+
+#formcontainer{
+    /* border: 1px solid red; */
+    width: 30%;
+    margin-left: 68%;
+    margin-top: -33%;
+    margin-right: 23%;
+    
+}
+
+#pagetitle{
+    margin-left: 20%;
+    font-size: 200%;
+}
+
+.inputStyle{
+    display: block;
+    padding: 18px;
+    margin: 4%;
+    width: 80%;
+    border-radius: 8px;
+}
+
+#btnlogin{
+    width: 90.5%;
+    background-color: blue;
+    color: #fff;
+    border-color: blue;
+    margin-top: 5%;
+    
+}
+
+#infocontainer{
+    margin-left: 5%;
+    margin-top: -2%;
+}
+
+#txt_forgot_pass{
+    margin-left: 30%;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(46, 46, 46);
+}
+
+p{
+    text-align: center;
+    padding: 10px;
+    margin-top: 7%;
+}
+
+img{
+    width: 12%;
+    
+}
+
+#socials{
+    /* border: 1px solid yellow; */
+    margin-left: 42%;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+
